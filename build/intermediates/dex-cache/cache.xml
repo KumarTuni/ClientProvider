@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rohin\Downloads\ClientProvider\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4164140bba500d1632e0fe9ed0598ab51539b5cc">
+        <dex dex="C:\Users\Rohin\Downloads\ClientProvider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6cee3dee1e7db1a7a3a8f51f514fd20ebdb7b291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rohin\Downloads\ClientProvider\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ff9250c835b91ed3261a127130bf5216b7405a72">
+        <dex dex="C:\Users\Rohin\Downloads\ClientProvider\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_cc1ded62a6e0cf08c92c3c9aab7aeda37210a504\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rohin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Rohin\Downloads\ClientProvider\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_5d635167100b6be44806f8d9d1ece9c38cf5232a\classes.dex" />
+    </item>
+
+</items>

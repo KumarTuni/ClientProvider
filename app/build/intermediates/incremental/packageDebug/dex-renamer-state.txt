@@ -1,0 +1,7 @@
+#Wed Jan 04 15:56:31 SGT 2017
+base.0=C\:\\Users\\Rohin\\Downloads\\ClientProvider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cc1ded62a6e0cf08c92c3c9aab7aeda37210a504
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Rohin\\Downloads\\ClientProvider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6cee3dee1e7db1a7a3a8f51f514fd20ebdb7b291\\classes.dex
+base.1=C\:\\Users\\Rohin\\Downloads\\ClientProvider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6cee3dee1e7db1a7a3a8f51f514fd20ebdb7b291
+file.0=C\:\\Users\\Rohin\\Downloads\\ClientProvider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_cc1ded62a6e0cf08c92c3c9aab7aeda37210a504\\classes.dex

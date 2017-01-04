@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="110188991457030"
+    token="-4213828753382231907"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="356" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="160" />
+    <task
+        name="verifier"
+        duration="45" />
+
+    <artifact
+        location="C:\Users\Rohin\Downloads\ClientProvider\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="110188991457030"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Rohin\Downloads\ClientProvider\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
